@@ -1,0 +1,15 @@
+.idea
+*.sqlite3
+*.db
+.DS_store
+venv/
+__pycache__/
+media/
+*/migrations
+static/admin
+static/debug_toolbar
+static/django_extensions
+static/adminsortable2
+test.py
+.env
+logs/*.log
